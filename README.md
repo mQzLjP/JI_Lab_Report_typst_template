@@ -1,3 +1,5 @@
+# As I now have write permission on the upstream repo, I think there no need to keep this fork. Archiving ...
+
 # JI Physics Lab Report Template in Typst
 
 Created by wznmickey and improved by mQzLjP.
